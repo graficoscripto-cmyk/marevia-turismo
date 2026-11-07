@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mareviaturismo.com.br/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mareviaturismo.com.br/img/og-marevia-turismo-v3.jpg</image:loc>
+      <image:title>Marevia Turismo — Passeios em Arraial do Cabo, RJ</image:title>
+      <image:caption>Praia do Forno e mar azul-turquesa em Arraial do Cabo com a Marevia Turismo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mareviaturismo.com.br/img/p-barco-1200.webp</image:loc>
+      <image:title>Passeio de Barco em Arraial do Cabo — Marevia Turismo</image:title>
+      <image:caption>Passeio de barco pelas Prainhas do Pontal do Atalaia, Ilha do Farol, Gruta Azul e Fenda de Nossa Senhora</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mareviaturismo.com.br/img/p-mergulho-1278.webp</image:loc>
+      <image:title>Mergulho de Cilindro (Batismo) em Arraial do Cabo — Marevia Turismo</image:title>
+      <image:caption>Mergulho de cilindro com tartaruga-marinha e vida marinha em Arraial do Cabo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mareviaturismo.com.br/img/p-quad-a-605.webp</image:loc>
+      <image:title>Passeio de Quadriciclo e Buggy em Arraial do Cabo — Marevia Turismo</image:title>
+      <image:caption>Trilha offroad de quadriciclo passando pelo Mirante do Gabriel, Pedreira e Deserto da Praia Grande</image:caption>
+    </image:image>
+  </url>
+</urlset>

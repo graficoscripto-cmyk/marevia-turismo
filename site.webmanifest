@@ -1,0 +1,16 @@
+{
+  "name": "Marevia Turismo — Passeios em Arraial do Cabo, RJ",
+  "short_name": "Marevia Turismo",
+  "description": "Passeio de barco, mergulho de cilindro, quadriciclo e buggy, trilhas e viagens pelo mundo em Arraial do Cabo, RJ.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#051929",
+  "theme_color": "#051929",
+  "icons": [
+    {
+      "src": "img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
