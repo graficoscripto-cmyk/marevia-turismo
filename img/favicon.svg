@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#102C54"/>
+  <!-- Golden Sun from Mar & Via Logo -->
+  <circle cx="34" cy="28" r="14" fill="url(#sunGrad)"/>
+  <!-- Sun Rays -->
+  <g stroke="#FDB813" stroke-width="2" stroke-linecap="round">
+    <line x1="34" y1="8" x2="34" y2="11"/>
+    <line x1="22" y1="11" x2="24" y2="14"/>
+    <line x1="46" y1="11" x2="44" y2="14"/>
+    <line x1="15" y1="20" x2="18" y2="22"/>
+    <line x1="53" y1="20" x2="50" y2="22"/>
+  </g>
+  <!-- Curling Turquoise Wave from Mar & Via Logo -->
+  <path d="M10 44C18 38 22 24 30 26C35 27 35 34 30 35C26 36 24 31 27 29" stroke="#BCEEFF" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <path d="M8 46C18 42 28 48 40 43C46 40 52 41 56 45" stroke="#29C5E6" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M12 52C22 49 34 54 48 49" stroke="#BCEEFF" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <defs>
+    <linearGradient id="sunGrad" x1="34" y1="14" x2="34" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFE082"/>
+      <stop offset="55%" stop-color="#FDB813"/>
+      <stop offset="100%" stop-color="#E86C1F"/>
+    </linearGradient>
+  </defs>
+</svg>
